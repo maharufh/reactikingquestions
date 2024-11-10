@@ -7,17 +7,7 @@
 
 ---
 
-<div>
-<p align="center">
-  <a href="https://www.greatfrontend.com/questions/react?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react&gnrs=sudheerj">
-    <img src="./images/collab/greatfrontend-banner4x.png" alt="GreatFrontEnd React Interview Questions" width="100%">
-  </a>
-</p>
-</div>
-
-> 💡 Nail React interviews with questions and solutions from ex-interviewers! [Try GreatFrontEnd →](https://www.greatfrontend.com/questions/react?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react&gnrs=sudheerj) 💡
-
----
+ 
 
 <div>
 <p align="center">
@@ -26,8 +16,7 @@
   </a>
 </p>
 </div>
-
-> 🚀 Ace React interview questions with solutions from FAANG+ companies! [Try FrontendLead →](https://www.frontendlead.com/coding-questions?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react) 🚀
+  solutions from FAANG+ companies! [Try FrontendLead →](https://www.frontendlead.com/coding-questions?utm_source=github&utm_medium=referral&utm_campaign=sudheerj-react) 🚀
 
 ---
 
